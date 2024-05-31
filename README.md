@@ -2,7 +2,7 @@
 Perception based autonmous navigation turtlebot
 
 Task Executed:\
--Detet Horizon line \
+-Detect Horizon line \
 -Detect traffic sign \
 -Detect path for the robot based on white sheet \
 -Detect dynamic obstacle in the path
